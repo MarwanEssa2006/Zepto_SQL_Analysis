@@ -68,7 +68,7 @@ Clone the repository
 
 git clone
 ```
-https://github.com/MarwanEssa2006/Zepto-SQL_Analysis
+https://github.com/MarwanEssa2006/Zepto_SQL_Analysis
 ```
 Open the SQL file in pgAdmin or any PostgreSQL client.
 
